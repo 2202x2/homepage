@@ -1,7 +1,7 @@
 var speed = 200;
 
 var typed = new Typed(".main-title", {
-  strings: ["4404 ^5000", "4404 = 2202 x 2^5000", "4404 = 2202 * 2"],
+  strings: ["4404 ^5000", "4404 = 2202 x 2^5000", "4404 = 2202 * 2^5000", "4404 = 8808 / 2^5000"],
   typeSpeed: speed,
   backSpeed: speed,
   smartBackspace: true,
