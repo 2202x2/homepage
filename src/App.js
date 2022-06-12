@@ -50,7 +50,7 @@ export default function App() {
           icon={faArrowDown}
         />
       </div>
-      <div className="grid auto-rows-auto grid-cols-2 md:gap-x-52 gap-x- gap-y-10 my-5">
+      <div className="grid auto-rows-auto grid-cols-2 md:gap-x-52 gap-x-20 gap-y-10 my-5">
         <Project
           name="4404 homepage"
           description="🏠 The very page you're looking at!"
